@@ -10,7 +10,8 @@
  * Input: strs = ["eat","tea","tan","ate","nat","bat"]
  * Output: [["bat"],["nat","tan"],["ate","eat","tea"]]
  * 
- * 
+ * Source: 30 days Coding
+ * Resource Link: https://courses.30dayscoding.com
  */
 
 var groupAnagrams = function(strs) {
